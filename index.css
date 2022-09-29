@@ -1,0 +1,32 @@
+header{
+    text-align: center;
+}
+
+body{
+    margin: 0px 20px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+article{
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    background-color: gainsboro;
+    color: black;
+    padding: 0.3rem;
+}
+
+article img{
+    width: 350px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;   
+}
