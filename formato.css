@@ -41,6 +41,7 @@ img{
 .texto{
     font-size: 16px;
     text-align: start;
+    line-height: 16px;
     color: rgb(95, 90, 90);
 }
 
