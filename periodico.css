@@ -1,0 +1,42 @@
+
+.wrapper #exorcismo, .wrapper #mono,.wrapper #planta, .wrapper #peques, .wrapper #popaux{
+    display: flex;
+    flex-wrap: wrap;
+    border-right: 1px black solid ;
+    width: auto;
+    height: auto;
+}
+.wrapper{
+    display: flex;
+    border-right: 1px black;
+}
+h1{
+    text-align: center;
+    background-color: grey;
+}
+
+h2{
+    border: 1px gray solid;
+    background-color: gold;
+}
+
+h4{
+    color:cornflowerblue;
+} 
+body{
+    background-color:beige;
+}
+
+#principal{
+    width: 100%;
+    height: auto;
+}
+#fotoexorcismo{
+    position: absolute; 
+    width: 250px;
+    height: 250px;
+}
+#fotomono, #fotoplanta, #fotopopaux{
+   width: 250px;
+   height: 250px;
+}
