@@ -13,11 +13,11 @@ body{
     padding: 10px;}
 
 h1{
-    font-size: 40px;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 55px;
     font-weight: 800;
     text-align: center;
     box-sizing: border-box;
-    /*border: 1px solid;*/
     }
 
 h2{
@@ -31,6 +31,7 @@ h2{
     font-weight: 600;
     text-align: justify;
     box-sizing: border-box;
+    
     }
     
 img{
@@ -40,8 +41,8 @@ img{
 
 .texto{
     font-size: 16px;
-    text-align: start;
     line-height: 16px;
+    text-align: start;
     color: rgb(95, 90, 90);
 }
 
