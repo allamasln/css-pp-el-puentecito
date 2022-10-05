@@ -1,0 +1,22 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    text-align: center;
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+} 
+
+div{
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    align-content: space-between;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: smaller;
+    }
+
+article{
+    border: 1px solid #000;
+}    
