@@ -1,0 +1,69 @@
+body{
+    width: 100vw;
+    height: auto;
+    margin: 0 auto;
+    overflow-x: hidden;
+    text-align: justify;
+    background-image: url(../../../DAW/2ºaño/interfaces/ACT-0/Material/img/fondo.jpg);
+}
+
+#container{
+    width: 100vw;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.noticia{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo{
+    width: 90vw;
+    font-weight: bold;
+    font-size: 35px;
+    border-bottom: 2px rgba(0, 0, 0, 0.548) solid;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.titulo:hover{
+    color: rgb(35, 3, 66);
+    opacity: .5;
+    transition: 0.75s ease-in-out;
+}
+
+.subtitulo{
+    width: 90vw;
+    font-weight: 600;
+    font-size: 25px;
+    border-bottom: 2px rgba(0, 0, 0, 0.548) solid;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.subtitulo:hover{
+    color: rgb(255, 0, 0);
+    opacity: .5;
+    transition: 0.75s ease-in-out;
+}
+
+.texto{
+    width: 90vw;
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.texto:hover{
+    color: rgb(105, 105, 105);
+    transition: 0.75s ease-in-out;
+}
