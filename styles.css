@@ -1,0 +1,28 @@
+#cabecera {
+    background-color: rgb(72, 75, 51);
+        display:block;
+        margin:auto;
+}
+
+#h1 {
+    font-family: oswald; 
+    font-size: xx-large; 
+    text-align: center;
+}
+
+#h2 {
+    font-family: oswald; 
+    font-size: x-large; 
+    text-align: center;
+}
+
+#parrafo {
+    text-align: justify; 
+    font-family: oswald; 
+    font-style: normal;
+}
+
+#imagen2 {
+    display:block;
+    margin:auto;
+}
