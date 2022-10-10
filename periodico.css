@@ -1,0 +1,79 @@
+body{
+    background-color: wheat;
+    font-size: 16px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: black ;
+    font-size: 4em;
+    border: 4px solid gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    text-align: center;
+    color: red;
+    text-decoration: underline red dashed;
+    background-color: black;
+    font-size: 2em;
+    font-family:fantasy,impact;
+}
+h3{
+    color: red;
+    text-align: center;
+    font-size:1.3em; 
+    background-color: black;
+    text-decoration:underline blue dashed;
+      
+}
+p{
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 10px;
+
+}
+
+img{
+    border: 1px solid black;
+    text-align: left;
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.foto1{
+    border: 5px solid rgb(0, 0, 0);
+    height:75%;
+    width:75%;
+}
+
+.p1{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ 
+.p2{
+    color:blue;
+    text-decoration: overline red dashed;
+    font-family: 'Courier New', Courier, monospace;
+}
+.p3{
+color: brown;
+text-decoration: line-through gray wavy;
+}
+
+.p4{
+    color: green;
+    font-variant: small-caps;
+}
+
+.p5{
+    color: black;      
+}
+
+q{
+    color:red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
